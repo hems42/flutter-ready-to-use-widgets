@@ -1,8 +1,8 @@
 # Ready to use widgets
 
-(🇹🇷) Projelerimde yararlı widget çözümleri kullanıyorum ve çoğu zaman orada kalıyor. Bunları hem ben hemde sizden gelenler ile birlikte biriktirip burada toplamak istiyorum. Eğer sizde katılmak isterseniz [bu dökümanı](https://github.com/VB10/flutter-ready-to-use-widgets/blob/master/github/rules/contribute.md#kendi-özel-widget-çözümümü-nasıl-paylaşırım)okumayı unutmayın.
+(🇹🇷) Projelerimde yararlı widget çözümleri kullanıyorum ve çoğu zaman orada kalıyor. Bunları hem ben hem de sizden gelenler ile birlikte biriktirip burada toplamak istiyorum. Eğer siz de katılmak isterseniz [bu dökümanı](https://github.com/VB10/flutter-ready-to-use-widgets/blob/master/github/rules/contribute.md#kendi-özel-widget-çözümümü-nasıl-paylaşırım) okumayı unutmayın.
 
-(🇺🇸)I'm using more usefull widgets on my bussines project or social project so i want to sum up all solutions only one repo with the community. If you want to contiribute or want to add your solitons, please read to [rules](https://github.com/VB10/flutter-ready-to-use-widgets/blob/master/github/rules/contribute.md#kendi-özel-widget-çözümümü-nasıl-paylaşırım) rules.
+(🇺🇸)I'm using more useful widgets on my bussines project or social project so I want to sum up all solutions only one repo with the community. If you want to contribute or want to add your solutions, please read to [rules](https://github.com/VB10/flutter-ready-to-use-widgets/blob/master/github/rules/contribute.md#kendi-özel-widget-çözümümü-nasıl-paylaşırım).
 
 ## List of core widget
 
@@ -17,6 +17,32 @@
   <tr>
     <td><img src="github/images/container/gradient_container.png" width=270 height=480></td>
     <td><img src="github/gifs/container/animated_scale_wrapper.gif" width=270 height=480></td>
+  </tr>
+  
+</table>
+
+# Custom Animated Container
+
+<table>
+  <tr>
+    <td>Custom Animated Container</td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/gifs/animatedContainer/animatedContainer.gif" width=270 height=480></td>
+  </tr>
+  
+</table>
+
+# Wide Expansion Panel
+
+<table>
+  <tr>
+    <td>Wide Expansion Panel</td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/gifs/wideExpansionPanel/wideExpansionPanel.gif" width=270 height=480></td>
   </tr>
   
 </table>
@@ -98,6 +124,51 @@
   
 </table>
 
+# Custom Text Field
+
+
+<table>
+  <tr>
+    <td> Custom Text Field GIF</td>
+    <td> Custom Text Field PNG</td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/gifs/custom_text_field/custom_text_field.gif" width=270 height=480></td>
+     <td><img src="github/images/text_field/custom_text_field.png" width=270 height=480></td>
+  </tr>
+  
+</table>
+
+# Info Message Panel
+
+
+<table>
+  <tr>
+    <td>Info Message Panel GIF</td>
+    <td>Info Message Panel PNG</td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/gifs/info_message_panel/info_message_panel.gif" width=270 height=480></td>
+     <td><img src="github/images/info_message_panel/info_message_panel.png" width=270 height=480></td>
+  </tr>
+  
+</table>
+
+# FacePile
+
+<table>
+  <tr>
+    <td> FacePileStack </td>
+  </tr>
+  
+  <tr>
+  <td><img src="https://user-images.githubusercontent.com/89414084/175426259-e212a85d-f444-4b6a-b81b-dbe6f2cec930.png" width=270 height=480></td>
+  </tr>
+  
+</table>
+
 
 
 
@@ -123,6 +194,20 @@
      <td><img src="github/images/group_checkbox/flutter_group_checkbox_properties.png" width=270 height=480></td>
   </tr>
   
+</table>
+
+# Color Constants
+
+<table>
+  <tr>
+    <td><img src="github/images/constants/sc1.png" width=900 height=250></td>
+  </tr>
+  <tr>
+    <td><img src="github/images/constants/sc3.png" width=900 height=100></td>
+  </tr>
+   <tr>
+    <td><img src="github/images/constants/sc2.png" width=900 height=200></td>
+  </tr>
 </table>
 
 
@@ -204,5 +289,66 @@
 | Name                     | Readme                                                                                                    |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- |
 | Bottom List Picker                | [Readme](lib/feature/bottomlistpicker/readme.md)  | 
+[Gif](github/gifs/bottomlistpicker/bottom_list_picker.gif)
 | Bottom List Picker                | [Readme](github/gifs/bottomlistpicker/bottom_list_picker.gif)  | 
 
+
+# Circle Avatar Image And Alphabet
+
+
+
+<table>
+  <tr>
+    <td> Circle Avatar Image And Alphabet </td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/gifs/circle_avatar_image_and_alphabet/circle_avatar_image_and_alphabet.gif" width=270 height=480></td>
+  </tr>
+  
+</table>
+                                                                                      
+ [Readme](lib/feature/circle_avatar_image_and_alphabet/readme.md)
+
+
+
+
+# Rating Bar
+
+
+<table>
+  <tr>
+    <td> Heart Icon Bar </td>
+    <td> Star Icon Bar </td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/gifs/rating_bar/heart_icon.gif" width=270 height=480></td>
+    <td><img src="github/gifs/rating_bar/star_icon.gif" width=270 height=480></td>
+# Stacked Images Widget
+
+<table>
+  <tr>
+    <td>Stacked Images</td>
+  </tr>
+  
+  <tr>
+    <td><img src="github\images\stacked_images\stackedimg.png" width=270 height=480></td>
+  </tr>
+  
+</table>
+
+
+# Custom Side Bar
+<table>
+  <tr>
+    <td>Custom Side Bar</td>
+  </tr>
+  
+  <tr>
+    <td><img src="github/images/custom_drawer/home.jpg" width=270 height=480></td>
+    <td><img src="github/images/custom_drawer/drawer.gif" width=270 height=480></td>
+    <td><img src="github/images/custom_drawer/drawer.jpg" width=270 height=480></td>
+  </tr>
+  
+</table>
